@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "version": "v1.2",
+  "build": 2026092202,
+  "minNativeVersionCode": 10138,
+  "bridgeVersion": 1,
+  "size": 27900264,
+  "sha256": "cdc3ebc472a244dc055af56897cd19a1220d048560a30b7cdb80ecbe52d5044b",
+  "signature": "jueN0qBhb0pACKtg6iHR33wWNgVYKPjhCwDgWNl4OKPJH/8SrE2g87DUjCRoaJuLakPSfl89iPq/TKeizqlxLvAmUnuAjYeqb5iDKMqMBd5F7XesLD97UTd7NFLP/GFRxUqQj9cszPg59XbHDbJWE+d0akH4UcdXJGs8osBPpA4EBM0n1OfpRDL2bEB4Zl2c9CK60QwkhVlKghptXW9yQHxbuy0hwdAZ9zkPOJTVUFUjKswvzt0X/elvcgEcKZY/zjgrDmZV4r0yKeRA/VZLTgknBffxQsZPclnkkFuR+mWBHhOuJE90dG2k+MzRJmJJQcCFErBCHfnNuwHCD57xv17U/ZC4kq3qvI17lKnjz7dPRzqaiyv/34r9WxIGS+93TWBJZJeQid5eXqZUek8oSq3Pr8H75CWQ6Hk7XN1FkC7siJAEw0p5m6YgnEBm9SQmuO+/uquvUMmWkq54xfnApu7/FShK2gP4G3hzYxhTAQQSFRhJLhdainYNjM2/KGtn",
+  "url": "https://raw.githubusercontent.com/ommehta0022/TrackIO-app-update-pipeline/main/android/releases/v1.2/trackio-web.zip",
+  "mandatory": false,
+  "releaseNotes": "Adds TrackIO v1.2 version label to the Welcome Back login footer."
+}

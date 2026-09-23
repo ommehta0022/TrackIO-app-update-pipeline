@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "version": "v2.202609230814-7b957a5519cc",
+  "build": 202609230814,
+  "minNativeVersionCode": 10200,
+  "bridgeVersion": 1,
+  "size": 27976187,
+  "sha256": "9678a909f343aeb5e6eccae258df2d17c741ba3ae07485a7e6835c12ee64080a",
+  "signature": "Xwqylai/im0GQXQcBP1kMIHQcaqnBhk5V4HTDlkrIWnuRrTYv8zTkXRvqqA7Rg2N3RAv3YseLo6Z5N7eKEqNmjuGFwD/bkiHaq0OwMf3zJILJ4PoZyl3mJx236jTCv/OxDi2TDR1nFjlfGwIeusQJdhEyKfJrODqwJx1P47z8jXDR2662zBumXHyqmWOZLCA5nP8Couy3LYx0FKPU7wFpGiY3enzGoqBtegR1AJyPx6J3KQDGV5T24olngNPjNXSV5uye+TwPPkyc8qopUG5eBm6BWKjh0W37UvljPtanOhdPlfNIfK6ADTjTG+CubsH2ggiBaBukMfw+bg8DVgANkV9ifrhgCwIDonnh5VFPGCp/gy2IMkkzoiHqSdUE1vmS8WPOvg993Z4VkYgPIR5eULgJ3OIjSK4xyqx1w3mp6JzETUfKDMfGvGMFpOtsaqNYQw2EicI2BE1PT0sonC0qwmOfiufuhYVmBCx18MxG+2lcrPVDatEIFw5zP+/7PU5bSWnVamkB/NNfMXvRMB1p071ABdwA0QV4/izo5I8DXZS+L3ONkB/cviLogl6dtPzfMbfmpn04fgZs+yyTige1riBZY9NH6FrbX+sX0iDkK1QgUHfosk7COxsnVwdltzALOndqzfaCotn8y+d+FfeyG5FiqSOQSzs4LS/ElGkeZ0=",
+  "url": "https://raw.githubusercontent.com/ommehta0022/TrackIO-app-update-pipeline/main/android/v2/releases/v2.202609230814-7b957a5519cc/trackio-web.zip",
+  "mandatory": false,
+  "releaseNotes": "TrackIO web improvements and fixes.",
+  "sourceSha": "7b957a5519ccee161c8b0ba8a87d19a21a440fb3"
+}
